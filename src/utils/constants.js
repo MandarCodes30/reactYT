@@ -1,4 +1,3 @@
-const API_KEY= "AIzaSyAj8jYr2GJA9Nc_brqpfiQhOs2jjBsChck"
 
 export const Chat_Count = 10;
 
